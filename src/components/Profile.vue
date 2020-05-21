@@ -4,7 +4,7 @@
         <b-row>
             <b-col cols=3 align-self="center">
                 <div class="image-cropper">
-                    <img alt="Profile Picture" src="../assets/profpic.jpg">
+                    <img alt="Profile Picture" src="https://storage.googleapis.com/start-project-274905-bucket/profpic.jpg">
                 </div>
             </b-col>
             <b-col align-self="center" class="text-right">
